@@ -1,4 +1,4 @@
-# OAuth2.0-Gmail-API
-This RESTful API is used to send emails.
-
-OAuth 2.0 is used for authentication and Gmail API is used to send e-mail.
+# Quickworks
+Obtain a Gmail user's credentials using OAuth 2.0. The OAuth 2.0 process should be initiated by an API call to your server.
+- Store the obtained credentials in a file.
+- Have an API endpoint to execute send email using the credentials previously stored.
